@@ -189,8 +189,8 @@ th {
         </div>
 
         <div class="info">
-            <strong>ชื่อ:</strong> นายจตุพร ภูริศรี<br>
-            <strong>รหัสนักศึกษา:</strong> 6740214110
+            <strong>ชื่อ:</strong> นายยูจิโร ไซโต<br>
+            <strong>รหัสนักศึกษา:</strong> 6740214126
         </div>
 
     </div>
